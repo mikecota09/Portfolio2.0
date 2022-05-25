@@ -1,0 +1,7 @@
+#banner {
+  background: linear-gradient(rgba(255, 255, 255, 0.4), var(--yellow)),
+    url(../assets/images/portfolio-background.jpg);
+  background-size: cover;
+  background-position: center;
+  height: 100vh;
+}
